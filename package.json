@@ -1,0 +1,23 @@
+{
+  "name": "myangularmaterialdemo",
+  "version": "1.0.0",
+  "description": "My Angular Material Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrongcheng/myangularmaterialdemo.git"
+  },
+  "keywords": [
+    "Angular",
+    "Materiall"
+  ],
+  "author": "Rui WAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrongcheng/myangularmaterialdemo/issues"
+  },
+  "homepage": "https://github.com/rrongcheng/myangularmaterialdemo#readme"
+}
